@@ -45,7 +45,7 @@ do {
 	// kod do wykonania w każdej iteracji
 } while (warunek);
 ```
- 4. **for of** wykonuje kod dla każdego elementu tablicy
+ 4. **for each** wykonuje kod dla każdego elementu tablicy
 ``` js
 tablica.forEach(elementTablicy => {
 	// kod do wykonania dla każdego elementu tablicy

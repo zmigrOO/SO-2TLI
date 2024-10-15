@@ -1,4 +1,4 @@
-### Definicja zmiennych i podstawowe instruksje sterujące
+### Definicja zmiennych i podstawowe instrukcje sterujące
 #### definicja zmiennych:
 ``` js
 let warunek = 2 > 1;

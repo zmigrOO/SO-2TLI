@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Przykład</title>
+	<style>
+		body {
+			font-size: 300%;
+		}
+	</style>
+	<script>
+		let tablica = [1, "hello", "✈️", true, 3.14]
+		function myFunction(iloscPowtorzen) {
+			for (let i = 0; i < iloscPowtorzen; i++) {
+				document.write("Liczba: " + i + "<br>");
+			}
+		}
+		let i = 0;
+		tablica.forEach(element => {
+			document.write(++i + ". " + element + "<br>")
+		});
+	</script>
+</head>
+
+<body>
+</body>
+
+</html>

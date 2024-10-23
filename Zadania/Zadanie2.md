@@ -10,12 +10,12 @@ Napisz skrypt w bashu, który spełnia poniższe wymagania.
 4. Skrypt powinien działać dla małych i dużych liter.
 np.
 ``` bash
-$ ./cezar.sh "Ala ma kota" 3
+$ ./cezar.sh "Ala ma kota" 
 Dodqpdndqwd
 ```
 # Dane wejściowe
 ``` bash
-$ ./cezar.sh "Ala ma kota" 3
+$ ./cezar.sh "Ala ma kota" 
 ```
 # Przydatne polecenia
 ``` bash

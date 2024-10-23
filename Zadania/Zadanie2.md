@@ -8,7 +8,6 @@ Napisz skrypt w bashu, który spełnia poniższe wymagania.
    - przesunięcie
 3. Skrypt powinien wyświetlić zaszyfrowany tekst.
 4. Skrypt powinien działać dla małych i dużych liter.
-
 np.
 ``` bash
 $ ./cezar.sh "Ala ma kota" 3
@@ -28,5 +27,4 @@ tr
 1. Stwórz plik `cezar.sh`.
 2. Napisz skrypt za pomocą dowolnego edytora tekstu. Np nano lub Visual Studio Code przez WSL.
 3. Uruchom skrypt z odpowiednimi argumentami.
-
 Powodzenia!

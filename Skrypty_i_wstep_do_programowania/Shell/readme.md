@@ -40,3 +40,11 @@ echo "Hello, $1!"
 ``` bash
 ./skrypt World
 ```
+## Jak poprosić użytkownika o podanie argumentu?
+### 1. Użyj polecenia `read`.
+``` bash
+#!/bin/bash
+echo "Ile masz lat:"
+read wiek
+echo "Masz $wiek lat."
+```

@@ -4,7 +4,7 @@
 - [Jak uruchomić skrypt powłoki z dowolnego miejsca w systemie?](#jak-uruchomić-skrypt-powłoki-z-dowolnego-miejsca-w-systemie)
 - [Jak uruchomić skrypt powłoki z argumentami?](#jak-uruchomić-skrypt-powłoki-z-argumentami)
 - [Jak poprosić użytkownika o podanie argumentu?](#jak-poprosić-użytkownika-o-podanie-argumentu)
-- 
+- [Sterowanie przebiegiem skryptu](#sterowanie-przebiegiem-skryptu)
 ## Jak stworzyć skrypt powłoki krok po kroku?
 ### 1. Stwórz plik `skrypt`.
 ``` bash

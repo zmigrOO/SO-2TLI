@@ -20,4 +20,6 @@ let liczby = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 1. Wejdź na stronę [jsfiddle](https://jsfiddle.net/)
 2. Kod programu wpisz w okno `JavaScript`
 3. Uruchom program, klikając przycisk `Run`
+4. Sprawdź wyniki.
+5. Jeśli wszystko działa, kod programu wklej do pliku `parzyste.js`.
 Powodzenia!

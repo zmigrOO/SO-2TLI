@@ -19,7 +19,7 @@ figlet
 ```
 ## Instrukcje
 
-1. Stwórz plik `<nazwa>.sh`.
+1. Stwórz plik `menu.sh`.
 2. Napisz skrypt za pomocą dowolnego edytora tekstu. Np nano lub Visual Studio Code przez WSL.
 3. Przetestuj skrypt.
 Powodzenia!
